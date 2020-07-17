@@ -1,16 +1,29 @@
-### Hi there 👋
+[![](https://img.shields.io/badge/LinkedIn-rafaellinosouza-blue)](https://www.linkedin.com/in/rafaellinosouza/)
+[![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red)](mailto:ayush2608@gmail.com)
+[![](https://img.shields.io/badge/Telegram-%40ayushkumar__25-blue)](https://t.me/ayushkumar_25)
+[![](https://img.shields.io/badge/HackerRank-ayushkumar__25-brightgreen)](https://www.hackerrank.com/ayushkumar_25)
 
-<!--
-**Rafaellinos/Rafaellinos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python3
+from rafael.lino import me as Me
 
-Here are some ideas to get you started:
+class About(Me):
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def get_code_knowledge(self):
+        return ['Python', 'JavaScript', 'C#']
+
+    def get_database_knowledge(self):
+        return ['MySql', 'PostgreSql']
+
+    def get_current_learning(self):
+        return ['Node', 'Design Patterns', ]
+
+    def get_daily_tools(self):
+        return ['Linux', 'Docker', 'Git']
+
+    def get_current_work(self):
+        return {
+            'company': 'LLIÈGE',
+            'position': 'Python/Odoo Developer'
+        }
+
+```
