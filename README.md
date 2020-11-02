@@ -7,13 +7,13 @@ from rafael.lino import me as Me
 class About(Me):
 
     def get_code_knowledge(self):
-        return ['Python', 'JavaScript', 'Shell', 'C#']
+        return ['Python', 'JavaScript', 'Shell']
 
     def get_database_knowledge(self):
         return ['MySql', 'PostgreSql']
 
     def get_current_learning(self):
-        return ['Node', 'Design Patterns']
+        return ['Java', 'Design Patterns']
 
     def get_daily_tools(self):
         return ['Linux', 'Docker', 'Git']
