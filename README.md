@@ -10,7 +10,7 @@ class About(Me):
         return ['Python', 'JavaScript', 'Shell']
 
     def get_database_knowledge(self):
-        return ['MySql', 'PostgreSql']
+        return ['MySql', 'PostgreSql', 'DynamoDB']
 
     def get_current_learning(self):
         return ['Java', 'Design Patterns']
@@ -20,8 +20,8 @@ class About(Me):
 
     def get_current_work(self):
         return {
-            'company': 'LLIÈGE',
-            'position': 'Python/Odoo Developer'
+            'company': 'Nova Tendência',
+            'position': 'Backend Developer Python/Java'
         }
 
 ```
