@@ -1,27 +1,14 @@
-[![](https://img.shields.io/badge/LinkedIn-rafaellinosouza-blue)](https://www.linkedin.com/in/rafaellinosouza/)
-[![](https://img.shields.io/badge/Gmail-nerociffer2018@gmail.com-red)](mailto:nerociffer2018@gmail.com)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Rafaellinos&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
-```python3
-from rafael.lino import me as Me
+### Rafael Lino
 
-class About(Me):
+<img src="https://img.shields.io/static/v1?label=Overview&message=Rafael&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-    def get_code_knowledge(self):
-        return ['Python', 'JavaScript', 'Shell']
+<p>
 
-    def get_database_knowledge(self):
-        return ['MySql', 'PostgreSql', 'DynamoDB']
+Trabalhando na **Nova Tendência**<br/>
 
-    def get_current_learning(self):
-        return ['Java', 'Design Patterns']
+Eu sou desenvolvedor **FullStack Python/Java/React**.
 
-    def get_daily_tools(self):
-        return ['Linux', 'Docker', 'Git']
-
-    def get_current_work(self):
-        return {
-            'company': 'Nova Tendência',
-            'position': 'Backend Developer Python/Java'
-        }
-
-```
+</p>
+<hr>
