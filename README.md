@@ -6,9 +6,9 @@
 
 <p>
 
-Trabalhando na **Nova Tendência**<br/>
+Working at **Nova Tendência** São Paulo/Brazil<br/>
 
-Eu sou desenvolvedor **FullStack Python/Java/React**.
+**FullStack Python/Java/React**.
 
 </p>
 <hr>
