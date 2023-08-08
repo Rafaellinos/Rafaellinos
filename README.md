@@ -6,9 +6,9 @@
 
 <p>
 
-Working at **Nova Tendência** São Paulo/Brazil<br/>
+Working at **NTT Data** São Paulo/Brazil<br/>
 
-**FullStack Python/Java/React**.
+**FullStack Python/Java/JavaScript**.
 
 </p>
 <hr>
