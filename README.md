@@ -6,9 +6,9 @@
 
 <p>
 
-Working at **NTT Data** São Paulo/Brazil<br/>
+Working at **Itaú Unibanco** São Paulo/Brazil<br/>
 
-**FullStack Python/Java/JavaScript**.
+**FullStack Java/Python/JavaScript**.
 
 </p>
 <hr>
