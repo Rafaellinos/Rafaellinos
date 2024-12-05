@@ -5,9 +5,6 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=Rafael&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
-
-Working at **Itaú Unibanco** São Paulo/Brazil<br/>
-
 **FullStack Java/Python/JavaScript**.
 
 </p>
